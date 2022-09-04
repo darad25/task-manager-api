@@ -5,6 +5,6 @@ Acknowledgements
 -https://udemy.com/course/the-complete-nodejs-developer-course-2/
 
 Tech Stack
-Client: Node JS, HTML, css,
+Client: Node JS
 
 Server: Mongo DB
